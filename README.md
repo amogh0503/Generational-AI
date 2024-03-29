@@ -1,4 +1,4 @@
-Run AI.py script
+Run object.py script
 
 pip install -r requirements.txt
 
